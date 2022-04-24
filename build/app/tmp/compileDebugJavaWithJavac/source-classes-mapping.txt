@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+eshop/com/eshops/BuildConfig.java
+ eshop.com.eshops.BuildConfig
